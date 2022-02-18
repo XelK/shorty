@@ -13,7 +13,7 @@ Jinja2==3.0.3
 Mako==1.1.6
 MarkupSafe==2.1.0
 platformdirs==2.5.0
-psycopg==3.0.8
+psycopg2
 python-decouple==3.6
 python-dotenv==0.19.2
 six==1.16.0
