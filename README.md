@@ -1,6 +1,8 @@
 # shorty
 Url shortener using python and Flask
 
+available on: https://s40rty.herokuapp.com/
+
 
 
 ## Notes:
